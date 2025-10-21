@@ -1,0 +1,16 @@
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\bin\Debug\net8.0-windows\ETicaret.exe
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\bin\Debug\net8.0-windows\ETicaret.deps.json
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\bin\Debug\net8.0-windows\ETicaret.runtimeconfig.json
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\bin\Debug\net8.0-windows\ETicaret.dll
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\bin\Debug\net8.0-windows\ETicaret.pdb
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ETicaret.Form1.resources
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ETicaret.csproj.GenerateResource.cache
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ETicaret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ETicaret.AssemblyInfoInputs.cache
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ETicaret.AssemblyInfo.cs
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ETicaret.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ETicaret.dll
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\refint\ETicaret.dll
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ETicaret.pdb
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ETicaret.genruntimeconfig.cache
+C:\Users\10\Desktop\CSharp_Proje\ETicaret\ETicaret\ETicaret\obj\Debug\net8.0-windows\ref\ETicaret.dll
